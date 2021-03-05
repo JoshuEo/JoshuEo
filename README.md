@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=JoshuEo&show_icons=true&theme=vue-dark" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuEo&theme=vue-dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=JoshuEo&show_icons=true&theme=vue-dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuEo&theme=vue-dark" />
 
 <br />
 
@@ -25,13 +25,13 @@ Hello! My name is Joshua Eom and I'm currently a high school student studing in 
 
 
 <!-- Actual text -->
-You can find me on [![Linkedin][2.2]][3]
+You can find me on [![LinkedIn][3.2]][3]
 
 <!-- Icons -->
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
-<!-- Links to your social media accounts -->
-[3]: www.linkedin.com/in/joshuaeom
+<!-- Links to social media accounts -->
+[2]: www.linkedin.com/in/joshuaeom
 
 
 # Technologies & Tools
