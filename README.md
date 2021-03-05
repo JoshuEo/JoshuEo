@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **JoshuEo/JoshuEo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 
-:-------------------------:|:-------------------------:
-<img src="https://github-readme-stats.vercel.app/api?username=JoshuEo&show_icons=true&theme=vue-dark" /> | <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuEo&theme=vue-dark" />
+| <img src="https://github-readme-stats.vercel.app/api?username=JoshuEo&show_icons=true&theme=vue-dark" /> | <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuEo&theme=vue-dark" /> |
+|----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
 
 <p>
   # Introduction <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
@@ -25,13 +23,8 @@ Here are some ideas to get you started:
 </p>
 
 <!-- Actual text -->
-You can find me on [![LinkedIn][2.2]][2]
-
-<!-- Icons -->
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to social media accounts -->
-[2]: www.linkedin.com/in/joshuaeom
+You can find me on:
+ \>\> ![Linkedin](www.linkedin.com/in/joshuaeom)
 
 
 # Technologies & Tools
