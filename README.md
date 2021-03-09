@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 |----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
 
 # Introduction <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
-Hello! My name is Joshua Eom and I'm currently a high school student studing in the cybersecurity and programming industries. I specialize in Python, Java, and Bash. But I'm currently learning to become proficient in PowerShell and Javascript. In this repository, I'm looking to share my projects and writeups in addition to notes so I can contribute  my work and knowledge to the community of learners.
+Hello! My name is Joshua Eom and I'm currently a high school student studying in the cybersecurity and programming industries. I specialize in Python, Java, and Bash. But I'm currently learning to become proficient in PowerShell and Javascript. In this repository, I'm looking to share my projects and writeups in addition to notes so I can contribute  my work and knowledge to the community of learners.
 
 ##### Social Media 📫
 \>\> [Linkedin](https://www.linkedin.com/in/joshuaeom)
